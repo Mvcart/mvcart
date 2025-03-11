@@ -2,7 +2,7 @@
 My name is Marcos, and I am a Computer Science undergraduate student at the University of São Paulo (USP). I have a passion for technology and a strong desire to learn new things. I am an active member of the Quantum Theory of Nanomaterials Group (QTNano), where I research clustering large molecular datasets.\
 \
 **🌱 Technologies I'm Learning include:**\
--**Languages:** C, Python, JavaScript
+-**Languages:** C, Python, JavaScript\
 -**Areas of Interest:** Data Science, Software Engineering\
 \
 **🔭 Current Focus:**\
